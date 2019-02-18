@@ -8,3 +8,8 @@ This database can showcase statistics of each player’s performance as well as 
 the classes and relationships between the classes, as can be seen in the UML diagram. We also created a relational scheme to show
 the keys that were used, and implemented the classes in Java using JPA annotations.
 
+## UML Class Diagram:
+![](images/UMLdiagram.png)
+
+## Relational Scheme:
+![](images/relationalScheme.png)
