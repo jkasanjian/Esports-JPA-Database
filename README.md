@@ -1,7 +1,6 @@
 # Esports-JPA-Database
 
-This was a group project for my Database Fundamentals class where I collaborated with a partner, Matthew Szeto 
-to create a realational database (MySQL) and application using the Java JPA Framework.
+This was a group project for my Database Fundamentals class to create a realational database (MySQL) and application using the Java JPA Framework. Team members: jkasanjian and ashstarry.
 
 The purpose of the database is to store information for an eSports Tournament for the popular multiplayer game, League of Legends. 
 This database can showcase statistics of each player’s performance as well as each team’s performances during matches. We designed
